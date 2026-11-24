@@ -6,7 +6,7 @@
 
 Entry for make.fun's **Weirdest Job Title: Blind Judge Showdown** bounty — $5 in USDC, top 10.
 
-The program writes exactly one job title to `/output/entry.txt`: **"Director of Unread Email Funerals"** (33 characters, inside the 1–60 character gate, nothing else). A real-sounding job with one hilariously specific twist: someone whose whole profession is giving a proper send-off to the emails nobody ever opened.
+The program writes exactly one job title to `/output/entry.txt`: **"Director of Naming Storms After Ex-Boyfriends"** (45 characters, inside the 1–60 character gate, nothing else). A real-sounding job with one hilariously specific twist: someone whose whole profession is naming storms after ex-boyfriends.
 
 ## How to run
 
